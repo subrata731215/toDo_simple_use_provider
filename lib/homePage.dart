@@ -100,7 +100,7 @@ class _HomePageState extends State<HomePage> {
                 flex: 3,
                 child: Container(
                   decoration: const BoxDecoration(
-                    color: Colors.red,
+                    color: Colors.teal,
                     borderRadius: BorderRadius.only(
                       topRight: Radius.circular(25),
                       topLeft: Radius.circular(25),
